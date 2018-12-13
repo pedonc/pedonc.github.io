@@ -1,4 +1,4 @@
-## Welcome to the Pediatric Oncology Department's GitHub Page
+## Welcome to the Pediatric Oncology Department's GitHub page!
 
 Below, please find links to the various projects we maintain.
 
