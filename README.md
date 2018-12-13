@@ -2,8 +2,11 @@
 
 Below, please find links to the various projects we maintain.
 
-### [Windows Deployment](url)
+### [Windows Deployment](https://pedonc.github.io/windows-deployment)
 Tools And Documentation To Automate And Manage Windows Deployment
+
+### [ZFS Sync](https://pedonc.github.io/zfs-sync)
+Tool To Synchronize And Backup Data From ZFS
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
