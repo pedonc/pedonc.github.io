@@ -8,6 +8,22 @@ Tools And Documentation To Automate And Manage Windows Deployment
 ### [ZFS Sync](https://pedonc.github.io/zfs-sync)
 Tool To Synchronize And Backup Data From ZFS
 
+## License
+
+All content copyright (c) 2018 Curtis Glavin, Jonathan Huppi, Robert Burkey
+
+All code in this repository is licensed under the [General Public License version 3](https://raw.githubusercontent.com/pedonc/windows-deployment/master/LICENSE)
+
+All documentation in this repository is licensed under the [GNU Free Documentation License version 1.3](https://raw.githubusercontent.com/pedonc/windows-deployment/master/fdl.txt).
+
+
+
+
+
+
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
