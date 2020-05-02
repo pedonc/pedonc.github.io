@@ -5,6 +5,9 @@ Below, please find links to the various projects we maintain.
 ### [Windows Deployment](https://pedonc.github.io/windows-deployment)
 Tools And Documentation To Automate And Manage Windows Deployment
 
+### [How To](https://pedonc.github.io/how-to)
+Documentation Of Several Useful Procedures
+
 ### [ZFS Sync](https://pedonc.github.io/zfs-sync)
 Tool To Synchronize And Backup Data From ZFS
 
